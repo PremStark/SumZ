@@ -1,6 +1,6 @@
 # SumZ - Advanced Article Summarizer
 
-![SumZ Logo](sumz_logo.png)
+![SumZ Logo](SumZ.png)
 
 SumZ is an advanced article summarizer tool that creates concise summaries from article links. It leverages RapidAl API and OpenAI's GPT model to provide efficient summarization of articles. This project is built using React.js for the frontend and Redux Toolkit for effective state management.
 
